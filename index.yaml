@@ -7,10 +7,9 @@ entries:
     description: A Helm chart for Kubernetes
     digest: 0ea41f87e3ff54cdbd771a441c26e88f66849d337738599019db49d3beb7d306
     icon: https://avatars3.githubusercontent.com/u/61642798
-    name: xrengine-builder, xrengine
+    name: xrengine-builder
     type: application
     urls:
-    - xrengine-4.0.1.tgz
     - xrengine-builder-4.0.1.tgz
     version: 4.0.1
 generated: "2022-06-20T15:15:00.097741+05:00"
