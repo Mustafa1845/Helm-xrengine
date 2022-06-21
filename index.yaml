@@ -31,7 +31,7 @@ entries:
     description: A Helm chart for Kubernetes
     digest: 9aacca5276754cc74f4962d1c589650b1b41fc33d383047a51b073f9a2f5a22f
     icon: https://avatars3.githubusercontent.com/u/61642798
-    name: xrengine
+    name: xrengine-test
     type: application
     urls:
     - xrengine-test-4.0.1.tgz
@@ -43,7 +43,7 @@ entries:
     description: A Helm chart for Kubernetes
     digest: f17b0fc209eea3a3946092b494751b413886c383f035979e7135c53889a4b9a8
     icon: https://avatars3.githubusercontent.com/u/61642798
-    name: xrengine-builder
+    name: xrengine-builder-test
     type: application
     urls:
     - xrengine-builder-test-4.0.1.tgz
