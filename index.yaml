@@ -3,9 +3,9 @@ entries:
   xrengine:
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2022-06-20T17:52:56.737371+05:00"
+    created: "2022-06-21T16:07:36.608768+05:00"
     description: A Helm chart for Kubernetes
-    digest: 9aacca5276754cc74f4962d1c589650b1b41fc33d383047a51b073f9a2f5a22f
+    digest: 95511ce5a60d83d435b8c4c6f2eef850d9d4e6996ea7594438af625710ba80be
     icon: https://avatars3.githubusercontent.com/u/61642798
     name: xrengine
     type: application
@@ -15,38 +15,37 @@ entries:
   xrengine-builder:
   - apiVersion: v2
     appVersion: 0.4.8
-    created: "2022-06-20T17:52:56.737929+05:00"
+    created: "2022-06-21T16:07:36.609602+05:00"
     description: A Helm chart for Kubernetes
-    digest: f17b0fc209eea3a3946092b494751b413886c383f035979e7135c53889a4b9a8
+    digest: 16ad075f2369677bb33fdb4b2562d54d25a1aaba8e9bbd65b210b4aa41486639
     icon: https://avatars3.githubusercontent.com/u/61642798
     name: xrengine-builder
     type: application
     urls:
     - xrengine-builder-4.0.1.tgz
     version: 4.0.1
+  xrengine-builder-test:
+  - apiVersion: v2
+    appVersion: 0.4.8
+    created: "2022-06-21T16:07:36.610767+05:00"
+    description: A Helm chart for Kubernetes
+    digest: eee7c2ff2042da31fe31a881290a117028e61c1175566d648a95ecbe0f0cb6e0
+    icon: https://avatars3.githubusercontent.com/u/61642798
+    name: xrengine-builder-test
+    type: application
+    urls:
+    - xrengine-builder-test-4.0.1.tgz
+    version: 4.0.1
   xrengine-test:
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2022-06-20T17:52:56.737371+05:00"
+    created: "2022-06-21T16:07:36.612869+05:00"
     description: A Helm chart for Kubernetes
-    digest: 9aacca5276754cc74f4962d1c589650b1b41fc33d383047a51b073f9a2f5a22f
+    digest: 6d43e41012ecfa6a7aabc8aa9f4bfcbaf5888018601fe1383ca128c179acffb6
     icon: https://avatars3.githubusercontent.com/u/61642798
-    name: xrengine
+    name: xrengine-test
     type: application
     urls:
     - xrengine-test-4.0.1.tgz
     version: 4.0.1
-  xrengine-builder-test:
-  - apiVersion: v2
-    appVersion: 0.4.8
-    created: "2022-06-20T17:52:56.737929+05:00"
-    description: A Helm chart for Kubernetes
-    digest: f17b0fc209eea3a3946092b494751b413886c383f035979e7135c53889a4b9a8
-    icon: https://avatars3.githubusercontent.com/u/61642798
-    name: xrengine-builder
-    type: application
-    urls:
-    - xrengine-builder-test-4.0.1.tgz
-    
-generated: "2022-06-20T17:52:56.735246+05:00"
-
+generated: "2022-06-21T16:07:36.605812+05:00"
