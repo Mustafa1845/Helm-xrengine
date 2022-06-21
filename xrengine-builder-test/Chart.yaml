@@ -1,7 +1,0 @@
-apiVersion: v2
-appVersion: 0.4.8
-description: A Helm chart for Kubernetes
-icon: https://avatars3.githubusercontent.com/u/61642798
-name: xrengine-builder-test
-type: application
-version: 4.0.1
